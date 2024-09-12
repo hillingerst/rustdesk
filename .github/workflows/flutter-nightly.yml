@@ -1,6 +1,7 @@
 name: Flutter Nightly Build
 
 on:
+   workflow_dispatch:
 
 
 jobs:
